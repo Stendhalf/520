@@ -7,9 +7,3 @@
 
 周一快乐٩(๑❛ᴗ❛๑)۶
 喜欢的话，记得点赞留言分享哦！
-
-wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
-
-chmod +x shadowsocksR.sh
-
-./shadowsocksR.sh 2>&1 | tee shadowsocksR.lo
